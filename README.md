@@ -12,9 +12,9 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCole&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCole&layout=compact&langs_count=7&theme=dark"/>
  </div>
-  <div dir="auto" style="
-    margin: 0px 0px 0px 337px;
-"><br>
+  <div dir="auto">
+    <br />
+    <div class="containerIMG" style ="display: flex">
   <img align="center" alt="Cole-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Cole-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Cole-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
