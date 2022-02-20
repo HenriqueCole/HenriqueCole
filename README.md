@@ -1,7 +1,7 @@
 ###   👑 I'm Henrique Cole
 - 🔭 System Development
 - 💻 Information Systems Programming
-- 📚 Front End developer
+- 📚 Front End
 - ⭐ JAVA, JavaScript, TypeScript
 - 🎆 16 yo
 - 📌 @henriquecole
