@@ -2,7 +2,7 @@
 - 🔭 System Development
 - 💻 Information Systems Programming
 - ⭐ JAVA, JavaScript, TypeScript
-- 🎆 16 yo
+- 🎆 17 yo
 - 📌 @henriquecole
 
 <div align="center">
