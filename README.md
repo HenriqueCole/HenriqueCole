@@ -1,7 +1,7 @@
 ###   👑 I'm Henrique Cole
 - 🔭 System Development
 - 💻 Information Systems Programming
-- ⭐ JAVA, JavaScript, TypeScript, React, Angular
+- ⭐  React, Angular, JAVA, JavaScript, TypeScript
 - 🎆 17 yo
 - 📌 @henriquecole
 
