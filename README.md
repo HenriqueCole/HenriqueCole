@@ -29,6 +29,9 @@
   <img align="center" alt="Cole-Bs" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" style="max-width: 100%;margin: 0px 0px 0px 340px;">
   <img align="center" alt="Cole-Bs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" style="max-width: 100%;margin: 0px 0px 0px 340px;">
   <img align="center" alt="Cole-Bs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" style="max-width: 100%;margin: 0px 0px 0px 340px;">
+  <img align="center" alt="Cole-Bs" height="30" width="40" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" style="max-width: 100%;margin: 0px 0px 0px 340px;">
+  <img align="center" alt="Cole-Bs" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="max-width: 100%;margin: 0px 0px 0px 340px;">
+  <img align="center" alt="Cole-Bs" height="30" width="40" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png" style="max-width: 100%;margin: 0px 0px 0px 340px;">
   </div>
 </div>
   
