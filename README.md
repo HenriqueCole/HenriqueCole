@@ -44,7 +44,6 @@
 
 - 🔭 System Development
 - 💻 Information Systems Programming
-- ⭐  React, Angular, JAVA, JavaScript, TypeScript
 - 🎆 17 yo
 - 📌 @henriquecole
 
