@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=192bc2&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henrique+Cole+Fernandes;I'm+17+years+old;)](https://git.io/typing-svg)
+# Henrique Cole Fernandes
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueCole&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Cole github stats" /> 
@@ -41,15 +39,3 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![MACOS](https://img.shields.io/badge/-Macos-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-- 🔭 System Development
-- 💻 Information Systems Programming
-- 🎆 17 yo
-- 📌 @henriquecole
-
-  <div align="center">
-<br><p align="centre"><b>Visitors counter</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HenriqueCole}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=192bc2&height=120&section=footer"/>
