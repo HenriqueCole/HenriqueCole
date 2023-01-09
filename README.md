@@ -2,9 +2,9 @@
 
 Working @WEG
 
-[![Twitter Badge](https://img.shields.io/badge/-@henriquecolef-3b3b3b?style=flat-square&labelColor=3b3b3b&logo=twitter&logoColor=white&link=https://twitter.com/henriquecolef)](https://twitter.com/henriquecolef) 
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-3b3b3b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/) 
-[![Gmail Badge](https://img.shields.io/badge/-henriquecolefernandes@gmail.com-3b3b3b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquecolefernandes@gmail.com)](mailto:henriquecolefernandes@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@henriquecolef-42639a?style=flat-square&labelColor=42639a&logo=twitter&logoColor=white&link=https://twitter.com/henriquecolef)](https://twitter.com/henriquecolef) 
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-42639a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/) 
+[![Gmail Badge](https://img.shields.io/badge/-henriquecolefernandes@gmail.com-42639a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquecolefernandes@gmail.com)](mailto:henriquecolefernandes@gmail.com)
 
 Admirer of the best web & mobile development technologies.
 
