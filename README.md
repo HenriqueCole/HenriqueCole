@@ -8,7 +8,7 @@ Working @WEG
 
 Admirer of the best web & mobile development technologies.
 
-Passionate about self-education and learning more and more programming. Each day going after of my goals to make my dreams come true.
+Passionate about self-education and learning more and more. Each day going after of my goals to make my dreams come true.
 
 
 "Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan 'Press On!' has solved and always will solve the problems of the human race."
