@@ -1,6 +1,6 @@
 # Henrique Cole Fernandes
 
-Working @WEG
+Developer at @WEG
 
 [![Twitter Badge](https://img.shields.io/badge/-@henriquecolef-f1f1f1?style=flat-square&labelColor=f1f1f1&logo=twitter&logoColor=black&link=https://twitter.com/henriquecolef)](https://twitter.com/henriquecolef) 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-f1f1f1?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/) 
