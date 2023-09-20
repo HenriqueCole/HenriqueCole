@@ -1,10 +1,10 @@
 # Henrique Cole Fernandes
 
-Developer at @WEG
+Developer at @WEG 
 
-[![Twitter Badge](https://img.shields.io/badge/-@henriquecolef-f1f1f1?style=flat-square&labelColor=f1f1f1&logo=twitter&logoColor=black&link=https://twitter.com/henriquecolef)](https://twitter.com/henriquecolef) 
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-f1f1f1?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/) 
-[![Gmail Badge](https://img.shields.io/badge/-henriquecolefernandes@gmail.com-f1f1f1?style=flat-square&logo=Gmail&logoColor=black&link=mailto:henriquecolefernandes@gmail.com)](mailto:henriquecolefernandes@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@henriquecolef-3e6296?style=flat-square&labelColor=3e6296&logo=twitter&logoColor=white&link=https://twitter.com/henriquecolef)](https://twitter.com/henriquecolef) 
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-3e6296?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/) 
+[![Gmail Badge](https://img.shields.io/badge/-henriquecolefernandes@gmail.com-3e6296?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquecolefernandes@gmail.com)](mailto:henriquecolefernandes@gmail.com)
 
 Admirer of the best web & mobile development technologies.
 
