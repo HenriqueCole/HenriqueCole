@@ -2,8 +2,8 @@
 
 Full-Stack Developer at @clinicorp
 
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-ADAEA9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/)
-[![Gmail Badge](https://img.shields.io/badge/-henriquecolefernandes@gmail.com-ADAEA9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquecolefernandes@gmail.com)](mailto:henriquecolefernandes@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-4A4F4D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/)
+[![Gmail Badge](https://img.shields.io/badge/-henriquecolefernandes@gmail.com-4A4F4D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquecolefernandes@gmail.com)](mailto:henriquecolefernandes@gmail.com)
 
 Admirer of the best web & mobile development technologies.
 
