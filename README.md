@@ -1,4 +1,4 @@
-# Henrique Cole Fernandes
+# Henrique Cole
 
 Full-Stack Developer at @clinicorp
 
