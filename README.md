@@ -1,6 +1,6 @@
 # Henrique Cole Fernandes
 
-Full-Stack Developer at @clinicorp
+Full-Stack Software Engineer at @clinicorp
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Cole-4A4F4D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecole/)](https://www.linkedin.com/in/henriquecole/)
 [![Gmail Badge](https://img.shields.io/badge/-henriquecolefernandes@gmail.com-4A4F4D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquecolefernandes@gmail.com)](mailto:henriquecolefernandes@gmail.com)
