@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>
-    <samp style="color:#a9b1d6;">Full-Stack Engineer | FrontEnd Specialist | AI Enthusiast</samp>
+    <samp style="color:#a9b1d6;">Product Engineer | Full-Stack Development | FrontEnd Specialist | AI Enthusiast</samp>
   </h3>
     <p>
     <a href="https://www.linkedin.com/in/henriquecole/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center" style="color:#a9b1d6;">
-  Passionate Full-Stack Engineer with expertise in modern JavaScript frameworks and AI technologies.
+  Passionate Product Engineer with expertise in modern JavaScript frameworks and AI technologies.
   <br/>
   I build elegant, scalable, and user-centered digital experiences.
 </p>
@@ -31,7 +31,7 @@
   <summary><b style="color:#7aa2f7;">✨ More about me</b></summary>
   <br/>
   
-- 🚀 **Full-Stack Engineer** crafting scalable, user-centered applications
+- 🚀 **Product Engineer** crafting scalable, user-centered applications
 - 🎨 **FrontEnd Specialist** in **React** & **Next.js** creating responsive interfaces
 - 🤖 **AI Developer** leveraging **OpenAI** for innovative solutions
 - 🌐 Passionate about **UX/UI Design** and seamless digital experiences
