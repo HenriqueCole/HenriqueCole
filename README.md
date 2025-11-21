@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>
-    <samp style="color:#a9b1d6;">Product Engineer | Full-Stack Development | FrontEnd Specialist | AI Enthusiast</samp>
+    <samp style="color:#a9b1d6;">Product Engineer | Full-Stack Development | AI Enthusiast</samp>
   </h3>
     <p>
     <a href="https://www.linkedin.com/in/henriquecole/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
