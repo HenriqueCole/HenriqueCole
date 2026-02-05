@@ -27,7 +27,7 @@
 
 <div align="center">
 
-**Full Stack Developer & Professional AI Engineer** with **5+ years** of experience
+**Software Engineer** with **5+ years** of experience
 
 Building intelligent, scalable solutions that drive measurable business impact
 
