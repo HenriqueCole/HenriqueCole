@@ -3,7 +3,7 @@
   
 # 👋 Henrique Cole
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%E2%80%A2+Professional+AI+Engineer;5%2B+years+building+intelligent%2C+scalable+solutions;Expert+in+SFT%2C+DPO%2C+RLHF%2C+RAG%2C+and+AGI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%E2%80%A2;5%2B+years+building+intelligent%2C+scalable+solutions)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.henriquecole.dev">
