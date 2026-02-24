@@ -1,37 +1,84 @@
-# Henrique Cole
+<div align="center">
 
-**Software Engineer** · 5+ years building production AI systems and full-stack applications.
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4A574&height=1&section=header" width="100%"/>
 
-I focus on turning complex problems into reliable, scalable software - from LLM-powered products to high-traffic web platforms.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/henriquecole.dev-000?style=flat&logo=vercel&logoColor=white)](https://www.henriquecole.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquecole/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:henriquecolefernandes@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=40&duration=3000&pause=2000&color=D4A574&center=true&vCenter=true&width=500&lines=Henrique+Cole">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=40&duration=3000&pause=2000&color=1A1A1A&center=true&vCenter=true&width=500&lines=Henrique+Cole">
+</picture>
 
----
+<br/>
 
-### What I do
+```
+Software Engineer · AI Systems · Full-Stack
+```
 
-- **Full-Stack Development** - React, TypeScript, Next.js, Node.js, Python, PostgreSQL. End-to-end ownership from architecture to deployment.
-- **AI Engineering** - Fine-tuning (SFT, DPO, GRPO), RLHF, RAG pipelines, prompt engineering. Built AI systems handling 30K+ monthly interactions and saving ~$100K/year in operational costs through automation.
-- **Performance & Scale** - Delivered 40% response time improvements on production systems. Comfortable with Docker, AWS, CI/CD, and observability tooling.
+<sub>5+ years shipping production AI systems and full-stack platforms.<br/>End-to-end ownership - architecture, infrastructure, deployment, scale.</sub>
 
----
+<br/>
 
-### Tech
+<a href="https://www.henriquecole.dev">
+  <img src="https://img.shields.io/badge/%20Portfolio-1A1A1A?style=flat-square&logo=vercel&logoColor=D4A574" alt="Portfolio"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/henriquecole/">
+  <img src="https://img.shields.io/badge/%20LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=D4A574" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:henriquecolefernandes@gmail.com">
+  <img src="https://img.shields.io/badge/%20Email-1A1A1A?style=flat-square&logo=gmail&logoColor=D4A574" alt="Email"/>
+</a>
 
-**Daily drivers:** React · TypeScript · Next.js · Node.js · Python · PostgreSQL · Tailwind CSS · Git  
-**Comfortable with:** Docker · Prisma · AWS · GCP · Vercel · Figma · Redis
-**Exploring:** GraphQL · MongoDB · MLOps
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4A574&height=1&section=header" width="40%"/>
 
-### GitHub Activity
+</div>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecole&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" width="49%" />
-</p>
+<br/>
 
----
+### What I ship
+
+**AI Engineering** - Fine-tuning (SFT, DPO, GRPO), RLHF, RAG pipelines, prompt engineering. Built systems handling 30K+ monthly interactions, cutting ~$100K/year in operational costs through automation.
+
+**Full-Stack & Infrastructure** - Own the full lifecycle from system design through CI/CD, containerization, cloud deployment, and observability. 40% response time improvements on production workloads.
+
+<br/>
+
+### Stack
+
+<div align="center">
+
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Redis` · `Prisma`
+<br/>
+`Docker` · `AWS` · `GCP` · `Vercel` · `Tailwind CSS` · `Figma` · `Git`
+
+</div>
+
+<br/>
+
+### Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=henriquecole&theme=dark&hide_border=true&background=0D0D0D&ring=D4A574&fire=D4A574&currStreakLabel=D4A574&sideLabels=D4A574&dates=666666&currStreakNum=FAFAF5&sideNums=FAFAF5">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecole&theme=default&hide_border=true&background=FAFAF5&ring=D4A574&fire=D4A574&currStreakLabel=1A1A1A&sideLabels=1A1A1A&dates=888888&currStreakNum=1A1A1A&sideNums=1A1A1A" width="52%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4A574&height=1&section=header" width="40%"/>
+
+<br/><br/>
 
 <sub>📍 Jaraguá do Sul, SC, Brazil · Open to interesting problems and collaborations.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4A574&height=1&section=footer" width="100%"/>
+
+</div>
