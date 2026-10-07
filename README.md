@@ -75,7 +75,7 @@ Software Engineer · AI Systems · Full-Stack
 
 <br/><br/>
 
-<sub>📍 Jaraguá do Sul, SC, Brazil · Open to interesting problems and collaborations.</sub>
+<sub>📍 São Paulo, Brazil · Open to interesting problems and collaborations.</sub>
 
 <br/><br/>
 
